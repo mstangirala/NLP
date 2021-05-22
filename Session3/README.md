@@ -9,7 +9,7 @@ and gives two outputs:
 the "number" that was represented by the MNIST image, and
 the "sum" of this number with the random number that was generated and sent as the input to the network
 
-![](Session3/images/Capture1.PNG)
+![](images/Capture1.PNG)
 
 ## Data Representation
 The inputs come from a 28x28 image from MNIST and a random number from 0 to 9.
