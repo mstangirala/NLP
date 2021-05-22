@@ -21,3 +21,7 @@ It adds a random number along with the mnist image, and the target now is the mn
 
 ## Loss function
 Cross entropy measures entropy between two probability distributions and since we're dealing with different classes we chose cross entropy.
+
+## Result
+
+![](images/Capture4.PNG)
