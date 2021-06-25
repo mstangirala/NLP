@@ -9,7 +9,6 @@ word from a sentence +last hidden vector -> encoder -> single vector
 single vector + last hidden vector -> decoder -> single vector
 single vector -> FC layer -> Prediction
 
-![Screenshot](screenshot.png)
 
 Once the model is trained, take one sentence, "print the outputs" of the encoder for each step and "print the outputs" for each step of the decoder. 
 
