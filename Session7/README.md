@@ -16,7 +16,9 @@ Convert floating-point labels into 5 classes
 ![Screenshot](![image](https://user-images.githubusercontent.com/55681983/123360714-67963600-d58b-11eb-8a2c-33e21ba45a35.png))
 
 
-Share the prediction on 10 samples picked from the test dataset. (100 pts)
+Share the prediction on samples picked from the test dataset.
+
+![Screenshot](![image](https://user-images.githubusercontent.com/55681983/123361990-99100100-d58d-11eb-96c3-2ffa0c6b977e.png))
 
 
 # PART 2
