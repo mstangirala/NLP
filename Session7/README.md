@@ -2,16 +2,16 @@
 ### Make a model using datasetSentences.txt without any augmentation.
 ### The dataset must have around 12k examples.
 
-MAX_VOCAB_SIZE = 12_000
+*MAX_VOCAB_SIZE = 12_000
 
-/*Text.build_vocab(train, max_size = MAX_VOCAB_SIZE)
+*Text.build_vocab(train, max_size = MAX_VOCAB_SIZE)
 Label.build_vocab(train)
 
-The dataset is split into 70/30 Train and Test (no need of validation)
+### The dataset is split into 70/30 Train and Test (no need of validation)
 
-(train, test) = stanfordDataset.split(split_ratio=[70, 30]*/
+*(train, test) = stanfordDataset.split(split_ratio=[70, 30]*
 
-Convert floating-point labels into 5 classes 
+### Convert floating-point labels into 5 classes 
 
 ![Part1_5classes](https://user-images.githubusercontent.com/55681983/123368840-2ce7ca00-d59a-11eb-8bd2-bb65de89b849.PNG)
 
