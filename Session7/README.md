@@ -13,7 +13,7 @@ The dataset is split into 70/30 Train and Test (no need of validation)
 
 Convert floating-point labels into 5 classes 
 
-[!Screenshot](![image](https://user-images.githubusercontent.com/55681983/123360555-243bc780-d58b-11eb-8180-cec60fe9c23d.png)
+![Screenshot](![image](https://user-images.githubusercontent.com/55681983/123360555-243bc780-d58b-11eb-8180-cec60fe9c23d.png)
 
 Share the prediction on 10 samples picked from the test dataset. (100 pts)
 
