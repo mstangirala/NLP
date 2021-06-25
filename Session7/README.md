@@ -13,7 +13,7 @@ The dataset is split into 70/30 Train and Test (no need of validation)
 
 Convert floating-point labels into 5 classes 
 
-![!Screenshot](![image](https://user-images.githubusercontent.com/55681983/123360714-67963600-d58b-11eb-8a2c-33e21ba45a35.png))
+![Screenshot](![image](https://user-images.githubusercontent.com/55681983/123360714-67963600-d58b-11eb-8a2c-33e21ba45a35.png))
 
 
 Share the prediction on samples picked from the test dataset.
@@ -28,6 +28,13 @@ To take a Question-Answer dataset and apply Encoder-Decoder-Seq2Seq architecture
 ## Preparation of Data
 
 ![Screenshot](![image](https://user-images.githubusercontent.com/55681983/123367713-0fb1fc00-d598-11eb-885f-6216db556baa.png))
-The code related to the dataset preparation for both datasets. 
+
+![Screenshot](![image](https://user-images.githubusercontent.com/55681983/123367842-5273d400-d598-11eb-898c-7d53d3c47b0d.png))
+
+## Model
+
+![Screenshot](![image](https://user-images.githubusercontent.com/55681983/123367934-79caa100-d598-11eb-98f7-53d6f32ec1a2.png))
+
+
 
 
